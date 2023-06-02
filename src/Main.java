@@ -1,6 +1,6 @@
 class Main {
     public static void main(String[] args){
-        int a = 438;
-        System.out.println(a);
+        double myNub = 768.9;
+        System.out.println(myNub);
     }
 }
