@@ -1,5 +1,6 @@
 class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Peopl!");
+        int numberOfMotors = 4;
+        System.out.println(numberOfMotors);
     }
 }
