@@ -1,7 +1,15 @@
 class Main {
     public static void main (String[] args  ) {
-        int numberOfWheels = 4;
-        System.out.println(numberOfWheels);
+        double myNum = 7890;
+        System.out.println(7890);
+
+        /*byte -1byte -[-128,127]
+        /*short 2byte -[32768, 32767 ] 
+         * int 4 byte - [-2b,2b]
+         * long -8b -
+        */
+        
+        */
 
 
     }
