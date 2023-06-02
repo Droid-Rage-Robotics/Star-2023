@@ -4,6 +4,12 @@ public class Main {
         System.out.println("Hello World!");
 
         int a = 123;
-        System.out.println("Printed Variable a: " + a);
+        int b = 567;
+        b = a;
+        System.out.println("\nPrinted Int a: " + a);
+        System.out.println("Printed Int b: " + b);
+        
+        double num = 3.3;
+        System.out.println("\nPrinted Double num: " + num);
     }
 }
