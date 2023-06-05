@@ -1,8 +1,8 @@
 class Main {
     public static void main(String[] args) {
-        int numberOfMotors = 4;
-        int numberOfWheels = numberOfMotors;
-        System.out.println(numberOfWheels);
+        int numberOfDogs = 255;
+        int numberOfCats = numberOfDogs;
+        System.out.println(numberOfCats);
     }
 }
  
