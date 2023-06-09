@@ -1,6 +1,10 @@
 
 public class Main {
     public static void main(String[] args) {
+        printOut();
+    }
+
+    public static void printOut() {
         System.out.println("Hello World!");
 
         int a = 123;
